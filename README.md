@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @themaverick
-- 👀 I’m interested in Technology obv m in an IIT.
-- 🌱 I’m currently Exploring The Realm of Ai/DL.
+- 👀 I’m interested in Technology.
+- 🌱 I’m currently Exploring Artificial Intelligence and Machine Learning.
 - 💞️ I’m looking to collaborate on nearly everything which excites me ;-)
-- 📫 How to reach me : 
+- 📫 How to reach me : https://www.linkedin.com/in/yogesh-sharma-a4bb59258/
 
 <!---
 themaverick/themaverick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
