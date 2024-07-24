@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @themaverick
 - 👀 I’m interested in Technology.
-- 🌱 I’m currently Exploring Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently Exploring Artificial Intelligence/Machine Learning.
 - 💞️ I’m looking to collaborate on nearly everything which excites me ;-)
 - 📫 How to reach me : https://www.linkedin.com/in/yogesh-sharma-a4bb59258/
 
